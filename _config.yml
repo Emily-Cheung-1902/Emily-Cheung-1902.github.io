@@ -27,7 +27,7 @@ author:
   pronouns         : "she/her"  
   bio              : " "
   location         : "Jiangsu China"
-  employer         : "Nan Jing University"
+  employer         : "NanJing University"
   uri              : # URL
   email            : "emilychoufixx@gmail.com" 
 
@@ -199,9 +199,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
