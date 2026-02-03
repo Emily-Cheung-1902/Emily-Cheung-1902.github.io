@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Emiy Cheung"
+title                    : "Emily Cheung"
 title_separator          : "-"
 name                     : &name "Yufei Zhang"
 description              : &description "personal description"
