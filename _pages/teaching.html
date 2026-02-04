@@ -7,6 +7,120 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<style>
+  .cv-wrap { max-width: 920px; margin: 0 auto; }
+  .cv-section { margin: 1.75rem 0 2.25rem 0; }
+  .cv-section h2 { margin: 0 0 0.75rem 0; }
+  .cv-list { list-style: none; padding: 0; margin: 0; }
+  .cv-item {
+    display: flex;
+    gap: 1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    align-items: baseline;
+  }
+  .cv-item:last-child { border-bottom: 0; }
+  .cv-term { min-width: 140px; font-weight: 600; }
+  .cv-main { flex: 1; }
+  .cv-meta { color: rgba(0,0,0,0.62); font-size: 0.95em; }
+  .cv-badge {
+    display: inline-block;
+    margin-left: 0.45rem;
+    padding: 0.05rem 0.55rem;
+    border: 1px solid rgba(0,0,0,0.22);
+    border-radius: 999px;
+    font-size: 0.85em;
+    line-height: 1.6;
+    vertical-align: baseline;
+  }
+  .cv-works a { text-decoration: none; }
+  .cv-works a:hover { text-decoration: underline; }
+  @media (max-width: 680px) {
+    .cv-item { flex-direction: column; gap: 0.25rem; }
+    .cv-term { min-width: auto; }
+  }
+</style>
+
+<div class="cv-wrap">
+
+  <section class="cv-section">
+    <h2>Teaching</h2>
+    <ul class="cv-list">
+      <li class="cv-item">
+        <div class="cv-term">Spring 2026</div>
+        <div class="cv-main">
+          Causal Inference
+          <div class="cv-meta">Graduate elective</div>
+        </div>
+      </li>
+
+      <li class="cv-item">
+        <div class="cv-term">Spring 2026</div>
+        <div class="cv-main">
+          Applications of Large Language Models in Digital Humanities
+          <span class="cv-badge">Teaching Assistant</span>
+          <div class="cv-meta">Undergraduate elective</div>
+        </div>
+      </li>
+
+      <li class="cv-item">
+        <div class="cv-term">Fall 2025</div>
+        <div class="cv-main">
+          Social Research Methods
+          <span class="cv-badge">Teaching Assistant</span>
+          <div class="cv-meta">Undergraduate required course</div>
+        </div>
+      </li>
+
+      <li class="cv-item">
+        <div class="cv-term">Spring 2025</div>
+        <div class="cv-main">
+          Academic Writing and Social Research Methods
+          <span class="cv-badge">Teaching Assistant</span>
+          <div class="cv-meta">Undergraduate elective</div>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section class="cv-section">
+    <h2>Internship</h2>
+    <ul class="cv-list">
+      <li class="cv-item">
+        <div class="cv-term">May–Aug 2023</div>
+        <div class="cv-main">
+          Reporting Intern, Hong Kong, Macao and Taiwan Desk<br/>
+          <span class="cv-meta">China News for World Service Department, Xinhua News Agency</span>
+
+          <div style="margin-top: 0.75rem;">
+            <div class="cv-meta" style="margin-bottom: 0.35rem;">Selected work:</div>
+            <ul class="cv-list cv-works">
+              <li style="padding: 0.35rem 0;">
+                <a href="https://h.xinhuaxmt.com/vh512/share/11613903?d=134b248" target="_blank" rel="noopener">
+                  “Macao Two-Way Route” Innovation Symposium: Telling Macao’s Story Through Culture and Tourism
+                </a>
+              </li>
+              <li style="padding: 0.35rem 0;">
+                <a href="https://h.xinhuaxmt.com/vh512/share/11608546?d=134b245" target="_blank" rel="noopener">
+                  PLOG | In the Summer Heat, Join Overseas Taiwanese Youth on a Visit to Beijing’s “Water Cube”
+                </a>
+              </li>
+              <li style="padding: 0.35rem 0;">
+                <a href="https://h.xinhuaxmt.com/vh512/share/11598545?d=134b23e" target="_blank" rel="noopener">
+                  Inside Taipei’s Palace Museum: Mainland University Delegation Gets a Close Look at Cultural Treasures
+                </a>
+              </li>
+              <li style="padding: 0.35rem 0;">
+                <a href="https://h.xinhuaxmt.com/vh512/share/11600136?d=134b23f" target="_blank" rel="noopener">
+                  Mainland Students and Faculty Visit Taiwan: A Xinhua Reporter’s On-the-Ground Look
+                </a>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+      </li>
+    </ul>
+  </section>
+
+</div>
