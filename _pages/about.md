@@ -17,11 +17,12 @@ Education
 - **M.A. in Computational Communication**  
   *School of Journalism and Communication, Nanjing University, China*  
   *2024 – Present*  
-  Advisor: Professor Zhihao Ma 
-  - Focus: Health communication, digital inequality, aging and mental health 
+  Supervisor: Dr. Zhihao Ma 
+  - Research focus: Health communication, aging and mental health 
 
 - **B.Eng. in Cyberspace Security**  
   *Communication University of China, Beijing*  
-  *2020 – 2024*  
+  *2020 – 2024*
+  - Research focus: Natural Language Processing and Computational Communication
 
 
