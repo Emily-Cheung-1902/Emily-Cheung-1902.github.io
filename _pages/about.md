@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-I’m **Yufei Zhang**, a master’s student in **Computational Communication** at the **School of Journalism and Communication, Nanjing University**, under the supervision of [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2). My research interests focus on health communication among older adults, with a particular emphasis on digital inequality and mental health challenges faced by the aging population.
+I’m **Yufei Zhang**, a master’s student in **Computational Communication** at the **School of Journalism and Communication, Nanjing University**, under the supervision of [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2). 
 
+My research focuses on health communication and mental health among older adults. I am interested in how older people experience, understand, and express loneliness, depression, and other mental health challenges, as well as how major life events shape their psychological adaptation, social relationships, and lived experiences. I also examine how aging, later life, and older adults’ experiences are represented in media, public discourse, and broader social narratives, and how these representations shape societal understandings of aging and older populations.
 
+I also study the applications and methodological implications of large language models in social science. My research examines whether large language models can use individual-level information to simulate a person’s psychological characteristics, attitudes, and behaviors, as well as the validity, limitations, and appropriate boundaries of such simulations in psychological measurement and social science research.
 
 Education
 ------
