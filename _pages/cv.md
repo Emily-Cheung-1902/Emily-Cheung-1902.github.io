@@ -11,9 +11,9 @@ redirect_from:
 
 <div style="margin-bottom: 1rem;">
   <a href="{{ base_path }}/files/Emily_Zhang_CV.pdf"
-     class="btn btn--primary"
      target="_blank"
-     rel="noopener">
+     rel="noopener"
+     style="background: none; border: none; padding: 0; text-decoration: underline;">
     Open CV in a New Tab
   </a>
 </div>
