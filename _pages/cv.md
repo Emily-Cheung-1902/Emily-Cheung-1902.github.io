@@ -25,5 +25,3 @@ redirect_from:
   style="border: none;"
   title="Emily Zhang CV">
 </iframe>
-
-
