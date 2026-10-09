@@ -19,7 +19,7 @@ redirect_from:
 </div>
 
 <iframe
-  src="{{ base_path }}/files/Emily_Zhang_CV.pdf"
+  src="{{ base_path }}/files/Yufei_Zhang_CV_comm.pdf"
   width="100%"
   height="1200px"
   style="border: none;"
