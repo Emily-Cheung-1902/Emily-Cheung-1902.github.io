@@ -16,11 +16,11 @@ I also study the applications and methodological implications of large language 
 
 Education
 ------
-- **M.A. in Computational Communication**  
+- **M.A. in Journalism and Communication**  
   *School of Journalism and Communication, Nanjing University, China*  
-  *2024 – Present*  
+  *2024 – 2027*  
   Supervisor: [Dr. Zhihao Ma](https://www.researchgate.net/profile/Zhihao-Ma-2)
-  - Research focus: Health communication, aging and mental health 
+  - Research focus: Health communication, AI-mediated communication
 
 - **B.Eng. in Cyberspace Security**  
   *Communication University of China, Beijing*  
